@@ -4,3 +4,6 @@
 [submodule "themes/minos"]
 	path = themes/minos
 	url = https://github.com/ppoffice/hexo-theme-minos.git
+[submodule "themes/blank"]
+	path = themes/blank
+	url = https://github.com/a2396837/hexo-theme-blank.git
